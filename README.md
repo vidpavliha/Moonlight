@@ -13,3 +13,4 @@ When you first run the server, you need to accept the eula. Go to servers, serve
 ```bash
 pip install -r requirements.txt
 python main.py 
+```
